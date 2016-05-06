@@ -1,0 +1,55 @@
+/* put your css code here */
+
+.crop-img{
+  max-height:150px;
+  max-width:100%;
+  margin: 0 13px 13px 0;
+  display: inline;
+
+}
+
+.album-img {
+    position: relative;
+    width:  200px;
+    height: 150px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+    border: 1px solid #ccc;
+}
+
+.modal-img {
+	max-height: 400px;
+	width: 40%;
+	margin: 0 40px 10px 0;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+
+
+}
+
+.modal-display{
+	display: inline-block;
+	
+}
+
+.caption{
+	margin-top: 10px;
+}
+
+.btn{
+   background-color: #007299;
+   color: #fff;
+}
+
+.container-fluid {
+  background-color: #fff;
+}
+
+.well {
+  background-color: #f2f2f2;
+}
+
+
+
+
